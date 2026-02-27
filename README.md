@@ -1,5 +1,6 @@
 ---
-<img src="banner.png" width="100%" />
+<img src="<img width="1536" height="1024" alt="GitHub-profile" src="https://github.com/user-attachments/assets/3ac3bb24-db93-4f67-b2d1-ab0be2a1bc3b" />
+" width="100%" />
 # Silvio Banfic 👋  
 Junior SOC Analyst | Cloud & Security Enthusiast
 Cloud infrastructure background transitioning into security operations with hands-on SOC lab simulations and incident response scenarios.
