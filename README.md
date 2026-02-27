@@ -1,8 +1,5 @@
 ---
-
-📫 Contact: sbanfic@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/silvio-banfic-27646427
-
+<img src="banner.png" width="100%" />
 # Silvio Banfic 👋  
 Junior SOC Analyst | Cloud & Security Enthusiast
 Cloud infrastructure background transitioning into security operations with hands-on SOC lab simulations and incident response scenarios.
