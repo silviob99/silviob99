@@ -1,42 +1,71 @@
-
 # Silvio Banfic
-Junior SOC Analyst | Cloud Security
+**Aspiring SOC Analyst** | HND Cybersecurity – GBS London
 
-Cloud infrastructure background transitioning into security operations with hands-on SOC lab simulations and structured incident response scenarios.
-
----
-
-## Focus
-
-- Microsoft Defender XDR
-- Azure / Entra ID Security
-- Cloud Infrastructure Security
-- SIEM & Log Analysis (KQL)
-- Incident Response Workflows
+Transitioning into security operations with a background in cloud infrastructure, hands-on lab projects, and a growing stack of industry certifications. Currently building a live Azure Sentinel SIEM lab to bridge the gap between infrastructure knowledge and security operations.
 
 ---
 
-## Current Projects
+## 🏅 Certifications
 
-- [Azure SOC Lab](https://github.com/silviob99/azure-soc-lab)
-- [Incident Response Simulation](https://github.com/silviob99/incident-response-simulation)
-- [Detection Engineering – KQL](https://github.com/silviob99/detection-engineering-kql)
-
----
-
-## Background
-
-AWS Solutions Architect Associate certified  
-Experience building infrastructure with Terraform and Linux administration  
-Applying DevOps knowledge to Cloud Security and SOC operations  
+| Certification | Issuer |
+|--------------|--------|
+| CompTIA Security+ | CompTIA |
+| Certified in Cybersecurity (CC) | (ISC)² |
+| AWS Solutions Architect Associate | Amazon Web Services |
+| Azure AI Fundamentals (AI-900) | Microsoft |
 
 ---
 
-## Career Path
+## 🛠️ Projects
 
-SOC Analyst → Incident Response → Detection Engineering  
+### 🔵 [Project 5 – Digital Sentinel Security Implementation](https://github.com/silviob99/Project-5-Digital-Sentinel)
+Windows Server 2019 domain hardening using Group Policy, Active Directory, EFS encryption, and CIA Triad principles. 9/9 security controls implemented and tested.
+
+`Windows Server 2019` `Active Directory` `GPO` `EFS` `VirtualBox`
 
 ---
 
-Contact: sbanfic@gmail.com  
-LinkedIn: https://www.linkedin.com/in/silvio-banfic-27646427
+### 🤖 [Project 3 – AI Job Search Hunter](https://github.com/silviob99/Project-3-AI-Job-Search-Hunter)
+AI-powered job search automation tool built in Python. Automates role discovery and candidate-to-job matching using LLM APIs.
+
+`Python` `AI/LLM APIs` `Automation`
+
+---
+
+### 🔴 Project 6 – Azure Sentinel SIEM & Honeypot Attack Map *(In Progress)*
+Deploying a honeypot VM in Azure to capture real-world brute-force and reconnaissance attacks. Building KQL detection rules mapped to MITRE ATT&CK and visualising live global attack data.
+
+`Microsoft Azure` `Microsoft Sentinel` `KQL` `Log Analytics` `MITRE ATT&CK`
+
+---
+
+## 🧰 Technical Skills
+
+**Security**
+Windows Server 2019 · Active Directory · Group Policy · NTFS Permissions · EFS · Windows Firewall · Microsoft Sentinel *(in progress)* · KQL *(in progress)*
+
+**Cloud & Infrastructure**
+AWS · Terraform · Docker · Packer · HashiCorp Vault · Linux CLI
+
+**Development**
+Python · HTML/CSS
+
+**Frameworks**
+CIA Triad · MITRE ATT&CK · Information Assurance principles
+
+---
+
+## 🎓 Education
+
+**HND in Cybersecurity** — GBS London *(Year 2, In Progress)*
+
+---
+
+## 🌐 Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/silvio-banfic-27646427/)
+- 📧 [sbanfic@gmail.com](mailto:sbanfic@gmail.com)
+
+---
+
+*Open to SOC Analyst and IT Security opportunities across the UK.*
